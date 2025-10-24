@@ -20,3 +20,4 @@ This project demonstrates business intelligence capabilities by transforming raw
 ## 🖼️ Screenshot & Demo
 
 •	Dashboard Preview: (https://github.com/Venugopal018/Sales-Profit-Dashboad/blob/main/Dashboard_Preview.png)
+Example: ![Dashboard Preview].(https://github.com/Venugopal018/Sales-Profit-Dashboad/blob/main/Dashboard_Preview.png).
