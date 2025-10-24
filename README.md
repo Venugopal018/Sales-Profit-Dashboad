@@ -18,6 +18,5 @@ This project demonstrates business intelligence capabilities by transforming raw
 •	🧠 User Experience: Clean layout with executive-level clarity and drill-down capabilities.
 
 ## 🖼️ Screenshot & Demo
-
+•	Dashboard Preview:
  ![Image Alt](https://github.com/Venugopal018/Sales-Profit-Dashboad/blob/840c0f8f5d793dd148958291719f55b64caea62f/Dashboard_Preview.png)
-•	Dashboard Preview: ([https://github.com/Venugopal018/Sales-Profit-Dashboad/blob/main/Dashboard_Preview.png](https://github.com/Venugopal018/Sales-Profit-Dashboad/blob/main/Dashboard_Preview.png)).
